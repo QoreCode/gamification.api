@@ -1,0 +1,15 @@
+{
+  "name": "gamification.library-api",
+  "version": "1.0.0",
+  "description": "Library for Gamification Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "QoreCode",
+  "license": "MIT",
+  "dependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "axios": "^0.19.2"
+  }
+}
